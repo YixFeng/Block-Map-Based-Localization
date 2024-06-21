@@ -1,11 +1,11 @@
 <div align="center">
     <h1>BM-Loc</h1>
     <br />
-    <a href=https://www.youtube.com/watch?v=jJhs0jK-uSI>Video</a>
+    <a href=https://www.youtube.com/watch?v=jJhs0jK-uSI>🎬Video</a>
     <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-    <a href="https://github.com/YixFeng/Block-Map-Based-Localization/blob/main/README.md#Install">Install</a>
+    <a href="https://github.com/YixFeng/Block-Map-Based-Localization/blob/main/README.md#Install">🛠️Install</a>
     <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-    <a href=https://arxiv.org/pdf/2404.18192>Paper</a>
+    <a href=https://arxiv.org/pdf/2404.18192>📑Paper</a>
   <br />
   <br />
 </div>
