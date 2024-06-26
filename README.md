@@ -66,7 +66,7 @@ Download M2DGR from [https://github.com/SJTU-ViSYS/M2DGR](https://github.com/SJT
 roslaunch block_localization run_m2dgr.launch
 ```
 *Remarks:*
-Since BM-Loc is a map-based localization method, you need to give the directory where maps are stored. Edit the parameter `globalmap_dir` in `config/*.yaml` files. 
+Since BM-Loc is a map-based localization method, you need to provide the directory where maps are stored. Edit the parameter `globalmap_dir` in `config/*.yaml` files. 
 
 
 ## Citation
