@@ -83,3 +83,6 @@ If you use any of this code, please cite our [paper](https://arxiv.org/pdf/2404.
 
 ## Acknowledgements
 Thanks for the open-source projects [hdl_localization](https://github.com/koide3/hdl_localization), [hdl_global_localization](https://github.com/koide3/hdl_localization) and [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM).
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=YixFeng/Block-Map-Based-Localization&type=Date)](https://star-history.com/#YixFeng/Block-Map-Based-Localization&Date)
